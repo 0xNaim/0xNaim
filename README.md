@@ -67,10 +67,3 @@
 [stackoverflow]: https://stackoverflow.com/users/14739490/naim 'Stackoverflow'
 [telegram]: https://t.me/Naim_1234 'Telegram'
 [link]: https://github.com/0xNaim
-
-<iframe src="https://github.com/anars/blank-audio/blob/master/250-milliseconds-of-silence.mp3" allow="autoplay" style="display:none" id="iframeAudio">
-</iframe>
-
-<audio autoplay loop  id="playAudio">
-    <source src="https://github.com/anars/blank-audio/blob/master/250-milliseconds-of-silence.mp3">
-</audio>
