@@ -2,7 +2,7 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=30&duration=3000&pause=500&color=00B8D4&center=false&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Ehical+Hacker;I+am+a+Software+Developer)](https://github.com/0xNaim)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=30&duration=3000&pause=500&color=00B8D4&center=false&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Software+Developer)](https://github.com/0xNaim)
 
 <p>Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
 <hr/>
