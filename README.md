@@ -69,6 +69,14 @@ Hello there! I am Omar Faruq. I am a Full-stack developer focused on Front-end d
 - Facebook: https://www.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
 
+## **GitHub Activities &#8595;**
+
+<a href="http://www.github.com/0xNaim"><img src="https://github-readme-stats.vercel.app/api?username=0xNaim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xNaim's GitHub stats" /></a>
+
+<a href="http://www.github.com/0xNaim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNaim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/0xNaim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xNaim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 [facebook]: https://web.facebook.com/0xNaim 'Facebook'
 [instagram]: https://www.instagram.com/0xNaim 'Instagram'
 [linkedin]: https://www.linkedin.com/in/0xnaim 'LinkedIn'
