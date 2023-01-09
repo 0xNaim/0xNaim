@@ -15,7 +15,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=30&duration=3000&pause=500&color=00B8D4&center=false&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Software+Developer)](https://github.com/0xNaim)
 
-<p>Hi there! I'm Omar Faruq. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
+<p>
+Hello there! I am Omar Faruq. I am a Full-stack developer focused on Front-end development. I have 2+ years of experience as a Front-end developer. I specialize in JavaScript and have professional experience working with JavaScript, React, and Redux.
+</p>
 <hr/>
 
 ## **Connect with Me &#8595;**
