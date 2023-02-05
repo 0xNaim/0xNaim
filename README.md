@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=30&duration=3000&pause=500&color=00B8D4&center=false&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Software+Developer)](https://github.com/0xNaim)
 
 <p>
-Hello there! I am Omar Faruq. I am an experienced front-end developer with a strong background in JavaScript. I specialize in JavaScript and have professional experience working with React.js/Next.js, and Redux.
+Hello there! I am Omar Faruq. I am an experienced front-end developer with a strong background in JavaScript. I specialize in this programming language and have professional experience working with React.js, Next.js, and Redux.
 </p>
 <hr/>
 
